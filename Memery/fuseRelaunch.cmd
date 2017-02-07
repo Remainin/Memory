@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "F:/Users/hit_lzp/Desktop/jizu/4-1/Memery/top_isim_beh.exe" -prj "F:/Users/hit_lzp/Desktop/jizu/4-1/Memery/top_beh.prj" "work.top" 
